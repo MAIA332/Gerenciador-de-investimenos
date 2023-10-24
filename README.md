@@ -48,19 +48,23 @@ Certifique-se de ter Python instalado em sua máquina.
 
 ### Página inicial:
 
-![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/601ce3f2-5b84-42c5-8dff-b46f262619d9)
+![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/effffe54-749f-4146-90c4-f9080a02664e)
+
 _Painel inicial_
 
 ### Página de registro:
-![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/3813c8e9-42b2-4b5a-8eeb-172b30161601)
+
+![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/6b28f8d6-ce41-4390-87c6-3b04ba925be0)
+
 _Registro de tickets_
 
 ### Fechamento:
 
-![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/6f9263d7-3a14-4531-8696-40ab752d53eb)
+![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/1f30a43c-7ae8-498f-88be-a1cdc51b5f1a)
 
 
-![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/8ea5cc19-07fc-426b-96c8-8ecf639128bc)
+![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/0170d8bc-84df-4628-8b77-2de7c9bd7271)
+
 _JSON do registro_
 
 
