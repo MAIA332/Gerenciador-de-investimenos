@@ -44,4 +44,24 @@ Certifique-se de ter Python instalado em sua máquina.
     ```
     python main.py
     ```
+## Interface:
+
+### Página inicial:
+
+![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/601ce3f2-5b84-42c5-8dff-b46f262619d9)
+_Painel inicial_
+
+### Página de registro:
+![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/3813c8e9-42b2-4b5a-8eeb-172b30161601)
+_Registro de tickets_
+
+### Fechamento:
+
+![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/6f9263d7-3a14-4531-8696-40ab752d53eb)
+
+
+![image](https://github.com/MAIA332/Gerenciador-de-investimenos/assets/67965680/8ea5cc19-07fc-426b-96c8-8ecf639128bc)
+_JSON do registro_
+
+
 
